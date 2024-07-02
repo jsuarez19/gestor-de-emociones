@@ -1,0 +1,15 @@
+.my-button {
+  padding: 10px 20px ;
+  background-color: #f16a66;
+  color: white;
+  border: none;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.my-button:hover {
+  background-color: #f5908e;
+}
+.my-button:active {
+  background-color: #f5908e;
+}
